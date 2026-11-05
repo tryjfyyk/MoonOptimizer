@@ -1,0 +1,21 @@
+{
+  "key.category.moonoptimizer.main": "MoonOptimizer",
+  "key.moonoptimizer.toggle_hud": "Показать/скрыть HUD",
+  "key.moonoptimizer.cycle_profile": "Переключить профиль оптимизации",
+  "key.moonoptimizer.toggle_auto": "Включить/выключить авто-режим",
+
+  "moonoptimizer.profile.quality": "Качество",
+  "moonoptimizer.profile.balanced": "Баланс",
+  "moonoptimizer.profile.performance": "Производительность",
+  "moonoptimizer.profile.extreme": "Экстрим",
+
+  "moonoptimizer.hud.auto": "%s (АВТО)",
+
+  "moonoptimizer.toast.title": "MoonOptimizer",
+  "moonoptimizer.toast.profile": "Профиль: %s",
+  "moonoptimizer.toast.auto": "Авто-режим: %s",
+  "moonoptimizer.toast.on": "ВКЛ",
+  "moonoptimizer.toast.off": "ВЫКЛ",
+
+  "moonoptimizer.menu.accounts.info": "Аккаунты меняются в лаунчере Minecraft"
+}

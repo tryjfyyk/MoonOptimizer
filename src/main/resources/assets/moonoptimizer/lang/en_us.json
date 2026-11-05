@@ -1,0 +1,21 @@
+{
+  "key.category.moonoptimizer.main": "MoonOptimizer",
+  "key.moonoptimizer.toggle_hud": "Toggle MoonOptimizer HUD",
+  "key.moonoptimizer.cycle_profile": "Cycle Optimization Profile",
+  "key.moonoptimizer.toggle_auto": "Toggle Auto-Boost",
+
+  "moonoptimizer.profile.quality": "Quality",
+  "moonoptimizer.profile.balanced": "Balanced",
+  "moonoptimizer.profile.performance": "Performance",
+  "moonoptimizer.profile.extreme": "Extreme",
+
+  "moonoptimizer.hud.auto": "%s (AUTO)",
+
+  "moonoptimizer.toast.title": "MoonOptimizer",
+  "moonoptimizer.toast.profile": "Profile: %s",
+  "moonoptimizer.toast.auto": "Auto-boost: %s",
+  "moonoptimizer.toast.on": "ON",
+  "moonoptimizer.toast.off": "OFF",
+
+  "moonoptimizer.menu.accounts.info": "Accounts are managed in the Minecraft launcher"
+}
